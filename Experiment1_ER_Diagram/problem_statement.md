@@ -1,6 +1,6 @@
 # ER Diagram Workshop – Submission
 
-## 📌 Objective
+## 📌 Objective 
 
 To understand and apply **Entity-Relationship (ER) modeling concepts** by creating ER diagrams for real-world applications.
 
