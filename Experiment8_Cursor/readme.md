@@ -270,6 +270,6 @@ The program should update employee salaries and display a message, or it should 
 
 ---
 
-## RESULT
+## RESULT 
 Thus, the program successfully executed and displayed employee details using a cursor. 
 
