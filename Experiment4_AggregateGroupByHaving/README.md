@@ -330,7 +330,7 @@ Eg., 20,22,23 comes in age group 20.
 Sample table: customer1
 
 For example:
-Result
+Result 
 
 age_group   MAX(salary)
 ----------  -----------
