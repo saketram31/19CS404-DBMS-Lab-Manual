@@ -221,7 +221,7 @@ WHERE customer_id = (
 ---
 -- Write a SQL query that retrieve all the columns from the table "Grades", where the grade is equal to the maximum grade achieved in each subject.
 
-Sample table: GRADES (attributes: student_id, student_name, subject, grade)
+Sample table: GRADES (attributes: student_id, student_name, subject, grade) 
 ```
 SELECT student_id,
        student_name,
