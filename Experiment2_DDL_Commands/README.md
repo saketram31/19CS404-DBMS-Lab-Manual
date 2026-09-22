@@ -1,6 +1,6 @@
 # Experiment 2: DDL Commands
 
-## AIM
+## AIM 
 To study and implement DDL commands and different types of constraints.
 
 ## THEORY
