@@ -1,6 +1,6 @@
 # Experiment 6: Joins
 
-## AIM
+## AIM 
 To study and implement different types of joins.
 
 ## THEORY
